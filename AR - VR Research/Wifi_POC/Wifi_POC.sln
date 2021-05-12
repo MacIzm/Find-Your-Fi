@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wifi_POC", "Wifi_POC.csproj", "{6B7822A7-251D-553E-8934-4765D90FD161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wifi_POC.Editor", "Wifi_POC.Editor.csproj", "{967B1011-D0E6-690A-C4D6-61DA78C66A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B7822A7-251D-553E-8934-4765D90FD161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7822A7-251D-553E-8934-4765D90FD161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7822A7-251D-553E-8934-4765D90FD161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7822A7-251D-553E-8934-4765D90FD161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967B1011-D0E6-690A-C4D6-61DA78C66A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967B1011-D0E6-690A-C4D6-61DA78C66A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967B1011-D0E6-690A-C4D6-61DA78C66A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967B1011-D0E6-690A-C4D6-61DA78C66A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
